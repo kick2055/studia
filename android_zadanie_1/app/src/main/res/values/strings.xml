@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">android_zadanie_1</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następny</string>
+    <string name="q_plec">Człowiek ma dwie płci</string>
+    <string name="q_matma">5 jest większe od 3</string>
+    <string name="q_geografia">ameryka jest mniejsza od polski</string>
+    <string name="q_uczelnia">pb to dobra uczelnia</string>
+    <string name="q_fizyka">szkło robi się z soli</string>
+    <string name="correct_answer">dobra odpowiedź</string>
+    <string name="incorrect_answer">zła odpowiedź</string>
+</resources>
