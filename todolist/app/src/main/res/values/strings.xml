@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TODO LIST</string>
+
+    <string name="name_label">Task name</string>
+    <string name="name_hint">Type task name</string>
+    <string name="details_label">Details</string>
+    <string name="done_label">Done</string>
+
+</resources>
