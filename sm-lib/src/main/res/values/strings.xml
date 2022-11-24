@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Biblioteka</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="first_fragment_label">Pierwszy</string>
+    <string name="second_fragment_label">Drugi</string>
+    <string name="next">Następny</string>
+    <string name="previous">Poprzedni</string>
+
+    <string name="hint_book_title">Tytuł</string>
+    <string name="hint_book_author">Autor</string>
+    <string name="button_save">Zapisz</string>
+    <string name="empty_not_saved">Jakieś pole zostało zostawione puste</string>
+
+    <string name="book_added">Książka zapisana</string>
+    <string name="book_edited">Książka edytowana</string>
+    <string name="book_deleted">Książka usunięta</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
